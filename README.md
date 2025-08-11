@@ -24,4 +24,3 @@ Includes a visual strength meter and copy-to-clipboard functionality.
    ```bash
    git clone https://github.com/yourusername/secure-password-generator.git
    cd secure-password-generator
-```
