@@ -1,5 +1,4 @@
 
-```markdown
 # Secure Password Generator (Tkinter)
 
 A modern, customizable password generator with strength analysis, built in Python using Tkinter.  
