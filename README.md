@@ -30,7 +30,7 @@ Here’s the main interface of the application:
 2. Run the application:
     
     ```bash
-    python password_generator.py
+    python SecurePasswordGenerator.py
     ```
     
 
@@ -54,5 +54,6 @@ pyinstaller --onefile --windowed --name SecurePasswordGenerator --icon=icon.ico 
 ```
 
 The executable will be located in the `dist/` folder.
+
 
 
