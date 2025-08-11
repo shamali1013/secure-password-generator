@@ -25,7 +25,7 @@ Here’s the main interface of the application:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/secure-password-generator.git
+   git clone https://github.com/shamali1013/secure-password-generator.git
    cd secure-password-generator
 2. Run the application:
     
@@ -54,4 +54,5 @@ pyinstaller --onefile --windowed --name SecurePasswordGenerator --icon=icon.ico 
 ```
 
 The executable will be located in the `dist/` folder.
+
 
