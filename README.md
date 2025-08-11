@@ -50,10 +50,11 @@ Building to EXE (Optional)
 If you want to create a standalone executable:
 
 ```bash
-pyinstaller --onefile --windowed --name SecurePasswordGenerator --icon=icon.ico password_generator.py
+pyinstaller --onefile --windowed --name SecurePasswordGenerator --icon=icon.ico SecurePasswordGenerator.py
 ```
 
 The executable will be located in the `dist/` folder.
+
 
 
 
