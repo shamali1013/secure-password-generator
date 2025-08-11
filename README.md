@@ -1,4 +1,3 @@
-
 # Secure Password Generator (Tkinter)
 
 A modern, customizable password generator with strength analysis, built in Python using Tkinter.  
@@ -7,7 +6,7 @@ Includes a visual strength meter and copy-to-clipboard functionality.
 
 ## Features
 - Adjustable password length and character composition
-- Real-time strength scoring and color-coded progress bar
+- Real-time strength scoring with a color-coded progress bar
 - Copy generated password to clipboard
 - Show/Hide password toggle
 - Clean, modern Tkinter interface with hover effects
@@ -17,7 +16,7 @@ Includes a visual strength meter and copy-to-clipboard functionality.
 *(Add screenshots here once available)*
 
 ## Requirements
-- Python 3.7+
+- Python **3.7+**
 - Tkinter (comes pre-installed with most Python distributions)
 
 ## Installation
@@ -37,7 +36,7 @@ Includes a visual strength meter and copy-to-clipboard functionality.
 Usage
 -----
 
-1. Set desired password length and composition.
+1. Set the desired password length and character composition.
     
 2. Click **Generate Password**.
     
@@ -53,5 +52,4 @@ If you want to create a standalone executable:
 pyinstaller --onefile --windowed --name SecurePasswordGenerator --icon=icon.ico password_generator.py
 ```
 
-The executable will be in the `dist/` folder.
-
+The executable will be located in the `dist/` folder.
